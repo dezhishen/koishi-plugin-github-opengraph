@@ -76,6 +76,7 @@ namespace GithubOpengraph {
       telegram: boolean;
       discord: boolean;
       kook: boolean;
+      red: boolean;
     };
     disablePrives: boolean;
     banPrivesList: string[];
